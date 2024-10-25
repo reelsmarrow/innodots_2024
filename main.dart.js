@@ -73870,7 +73870,7 @@ if(s==null)s=$.i=B.e
 s.F(0,null,A.l(this.a).h("br.T")).aeK()},
 $S:29}
 A.a6g.prototype={
-$0(){var s,r,q,p,o,n=null,m=this.a
+$0(){var s,r,q,p,o,n=null,m="Innodots Drealty",l=this.a
 $.b0()
 s=$.q().xr
 s=$.k.p$.x.i(0,s)
@@ -73898,9 +73898,9 @@ if(r==null){r=self.window.devicePixelRatio
 if(r===0)r=1}r=p.M(0,r)
 p=$.i
 if(p==null)p=$.i=B.e
-p=p.F(0,n,A.l(m).h("br.T")).k2.gl(0)?B.H:B.l
+p=p.F(0,n,A.l(l).h("br.T")).k2.gl(0)?B.H:B.l
 o=A.U(40)
-return A.c4(n,A.cb(A.ac(n,A.c2(A.ac(n,A.c2(A.bb(A.a([A.au(A.aF("assets/images/logo.png",B.aO),n,45),B.dc,new A.de(new A.dH("Innodots Drealty",B.bw),A.fo("Innodots Dreality",1,12,B.a3,A.M(n,n,B.f,n,n,n,n,n,"PoppinsMedium",n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),n)],t.D),B.n,B.V,B.w),n,n),n,new A.ai(p,n,n,o,n,n,B.k),65,n,n,r.a/5.1),n,n),n,new A.ai(n,n,n,s,n,B.cR,B.k),70,n,n,q.a/5),B.K,new A.a5M(m),new A.a5N(m),n),B.D,!1,n,n,n,n,n,n,n,n,n,n,n,n,new A.a5y(),n,n,n)},
+return A.c4(n,A.cb(A.ac(n,A.c2(A.ac(n,A.c2(A.bb(A.a([A.au(A.aF("assets/images/logo.png",B.aO),n,45),B.dc,new A.de(new A.dH(m,B.bw),A.fo(m,1,12,B.a3,A.M(n,n,B.f,n,n,n,n,n,"PoppinsMedium",n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n),n)],t.D),B.n,B.V,B.w),n,n),n,new A.ai(p,n,n,o,n,n,B.k),65,n,n,r.a/5.1),n,n),n,new A.ai(n,n,n,s,n,B.cR,B.k),70,n,n,q.a/5),B.K,new A.a5M(l),new A.a5N(l),n),B.D,!1,n,n,n,n,n,n,n,n,n,n,n,n,new A.a5y(),n,n,n)},
 $S:87}
 A.a5y.prototype={
 $0(){A.my($.b0(),"/innodots-dreality",null,t.z)},
